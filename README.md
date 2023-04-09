@@ -4,7 +4,7 @@
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-Skills: Wordpress/ Shopify /  SEO / Bootstrap /  JS / HTML / CSS / PHP 
+Skills: Wordpress/ Shopify / SEO /  Speed Optimization / Core Web Vitals / Schema Markup / Bootstrap /  JS / HTML / CSS / PHP 
 
 
 
