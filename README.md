@@ -1,5 +1,5 @@
 ### Hi there 👋, My Name is Momnur Islam
-#### I am Professional Freelancer specializing in WordPress & Shopify Development / Design | SEO Expert | Speed Optimization | Core Web Vitals | Schema Markup
+#### I am a Professional Freelancer specializing in WordPress & Shopify Development / Design | SEO Expert | Speed Optimization | Core Web Vitals | Schema Markup
 ![I am Professional Freelancer specializing in WordPress & Shopify Development / Design | SEO Expert | Speed Optimization | Core Web Vitals | Schema Markup](https://pbs.twimg.com/profile_banners/1189066856/1681027994/1080x360)
 
 I am a WordPress Developer & SEO expert working in the SEO and WordPress profession for over 10+ years. I'm a specialized in WordPress developer, SEO Expert, WordPress designer experince in Elementor, Divi, Yoast SEO, RankMath SEO, On Page SEO, Off Page SEO, Keyword Research, Website Audit, WP Rocket, Astra, website speed optimization and fixing core-web vital issues, Etc
